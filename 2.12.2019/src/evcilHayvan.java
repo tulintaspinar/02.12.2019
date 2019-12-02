@@ -12,7 +12,6 @@ public class evcilHayvan {
 	
 	public evcilHayvan(String isim)
 	{
-		
 		System.out.println(isim+" oyun oynuyor");
 		this.isim=isim;
 	}
